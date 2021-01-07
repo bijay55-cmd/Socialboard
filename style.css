@@ -25,7 +25,7 @@ body{
   .switch{
       display: inline-block;
     position: relative;
-   padding: 0 25px;
+   width: 60px;
    top:-10px;
   }
   input,label{
